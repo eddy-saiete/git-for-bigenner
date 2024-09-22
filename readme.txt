@@ -1,4 +1,4 @@
 welcome to my projects
 
-author: Eddy Saiete.
+author: Eddy Eugenio Saiete.
 insta: eddy_saiete.
