@@ -1,4 +1,4 @@
-welcome to my projects
+welcome to my "git for bigenners" projects
 
 author: Eddy Eugenio Saiete Mapandzene.
 
